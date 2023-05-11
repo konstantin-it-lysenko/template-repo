@@ -1,2 +1,2 @@
-# tutorial-my-g
-home repo
+# default template
+hw1
