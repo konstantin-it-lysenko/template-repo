@@ -1,2 +1,2 @@
 # default template
-hw1
+Default markup and reset styles.
